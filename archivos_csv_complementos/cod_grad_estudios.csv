@@ -1,0 +1,14 @@
+COD_GRADO_ESTUDIOS,NOM_GRADO_ESTUDIOS
+1,Sin nivel
+2,Educaion inicial
+3,Primaria incompleta
+4,Primaria completa
+5,Secundaria Incompleta
+6,Secundaria completa
+7,Superior no universitaria incompleta
+8,Superior no Universitaria completa
+9,Superior Universitaria Incompleta
+10,Superior Universitaria Completa
+11,Maestria/doctorado
+12,Básica especial
+99,Missing value
